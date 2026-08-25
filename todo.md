@@ -1,6 +1,6 @@
-# Publicação no GitHub
+# Correção do deploy na Vercel
 
-- [x] Verificar se o ambiente já está autenticado no GitHub; a conta foi reconhecida, mas a integração não autorizou escrita de conteúdo.
-- [x] Confirmar o usuário e o nome do repositório de destino: `carolineferreira161/Tcc`.
-- [ ] Criar ou conectar o repositório e enviar o código; bloqueado por resposta 403 de escrita da integração GitHub.
-- [ ] Validar o link do repositório e orientar a importação na Vercel.
+- [ ] Conferir o estado atual do repositório e a estrutura enviada.
+- [ ] Identificar a causa da falha durante a instalação/build.
+- [ ] Aplicar a correção no projeto ou orientar o ajuste mínimo na Vercel.
+- [ ] Validar o build e instruir um novo deploy.
